@@ -1,22 +1,24 @@
+
 Dark-theme-JDeveloper
 =====================
 
-Dark Theme for JDeveloper 11.1.1.4 and syntax color Scheme for code
+Updated Dark Theme for JDeveloper 12.1.3.0 and syntax color Scheme for code. 
 
 Installation
 1. files from directory themes copy in --> {JDeveloper_install_directory}\jdeveloper\ide\themes\
 
 If use default settings 
-2. copy file "dtcache.xml" in {install_directory}\jdeveloper\system11.1.1.4.37.59.23\o.ide\
-	where "11.1.14...." is your JDeveloper version
+2. copy file "dtcache.xml" in {windows_user_directory}\.jdeveloper\system12.1.3.0.41.140521.1008\o.ide
+	where "12.1.3...." is your JDeveloper version
 3. start JDeveloper
-4. Go to ìToolsî ñ> Preferencesì ñ> ìEnvironmentî select from "theme" combobox select "Dark Theme v1.0
-5. GO to ìToolsî ñ> Preferencesì ñ> ìEnvironmentî --> "Log" and select some more white colors for links /your choice/
-6. GO to ìToolsî ñ> Preferencesì ñ> ìCode Editorî ñ> ìSyntax Colorî and select from "Scheme" combobox - "CustomDark v1.2"
+4. Go to ‚ÄúTools‚Äù ‚Äì> Preferences‚Äú ‚Äì> ‚ÄúEnvironment‚Äù select from "theme" combobox select "Dark Theme v1.0
+5. GO to ‚ÄúTools‚Äù ‚Äì> Preferences‚Äú ‚Äì> ‚ÄúEnvironment‚Äù --> "Log" and select some more white colors for links /your choice/
+6. GO to ‚ÄúTools‚Äù ‚Äì> Preferences‚Äú ‚Äì> ‚ÄúCode Editor‚Äù ‚Äì> ‚ÄúSyntax Color‚Äù and select from "Scheme" combobox - "CustomDark v1.2"
 
 If you have custom settings you can copy "CustomDark" syntax color schemes from file "Ithmes.xml"
 and paste them in your file "dtcache.xml".
 
 Syntax color schemes with name "TextMate v0.1" ... "TextMate v0.6" are form http://djitz.com/guides/how-to-transform-oracle-jdeveloper-to-textmate/
 
-For more information I write everything in my blog: http://gutsev.com/dark-theme-jdeveloper-11-1-1-4/
+For more information see orginal author: http://gutsev.com/dark-theme-jdeveloper-11-1-1-4/
+
